@@ -1,0 +1,106 @@
+body {
+	background-color: #000;
+}
+
+#jumbo1 {
+	
+	
+    padding-top: 30px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+#triviaTitle {
+	margin-left: auto;
+    margin-right: auto;
+    color:#faf7ed;
+    letter-spacing: 4px;
+    font-family: 'Rock Salt', cursive;
+}
+
+
+	#startBtn {
+		padding:12px 40px 12px 40px;
+		font-size: 25px;
+		background-color: #e2c55f;
+		border-color: rgb(236, 11, 11);
+		color: rgb(29, 14, 226);
+		 font-family: 'Rock Salt', cursive; 
+		letter-spacing: 3px;
+	}
+		#startBtn:hover {
+			background-color: #8f3625;
+			color: #def;
+		}
+
+div#gameArea.jumbotron.text-center {
+	margin-right: 10%;
+    margin-left: 10%;
+	background: #283048;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+}
+
+img.gifImg {
+	width:75%;
+	height:auto;
+}
+
+div#Qs.container {
+	font-family: 'Source Code Pro', monospace;
+}
+	div#time {
+		font-size: 25px;
+		color: #def;
+	}
+	div.question {
+		/*font-family: 'Source Code Pro', monospace;*/
+		color:#eb8b2b;
+		font-size: 18px;
+	}
+
+	div.thisChoice {
+		/*font-family: 'Nanum Gothic Coding', monospace;*/
+		font-size: 16px;
+		/* color: #def; */
+		line-height: 50px;
+	}
+		div.thisChoice:hover {
+			color:red;
+		}
+div#Ans.container {
+	font-family: 'Source Code Pro', monospace;
+}
+	div#text, div#correctAnswer {
+		/* color: #edd899; */
+		font-size: 18px;
+	}
+	
+	
+	div.gifCap {
+		/* color:#faf7ed; */
+		font-size: 14px;
+	}
+
+div.container#Res {
+	color: lightblue;
+	font-size: 20px;
+	font-family: 'Source Code Pro', monospace;
+}
+	
+	button#startOverBtn {
+		padding:12px 40px 12px 40px;
+		font-size: 18px;
+		background-color: #8f3625;
+		border-color: #000;
+		color: #def;
+		font-family: 'Rock Salt', cursive;
+		letter-spacing: 4px;
+	}
+		button#startOverBtn:hover {
+			background-color: #e2c55f;
+			color: #111;
+			cursor: pointer;
+		}
+
