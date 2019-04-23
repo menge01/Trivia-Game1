@@ -4,12 +4,13 @@ I create a trivia game  with multiple choice options. The player will have a lim
 
 # Built With
 .HTML5
-.CSS3
-.Bootstrap 
-.JavaScript
-.jQuery
+,CSS3
+,Bootstrap 
+,JavaScript
+,jQuery
 
 .Go ahead! Click on the following link to preview the completed assignment.
+https://menge01.github.io/Trivia-Game1/
   
 
 ![Capture](https://user-images.githubusercontent.com/39536292/56621367-2cd69300-65fa-11e9-97e3-e0db05363a51.GIF)
